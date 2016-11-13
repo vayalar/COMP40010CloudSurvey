@@ -202,6 +202,7 @@
     <Content Include="Scripts\jquery-1.6.4.min.js">
       <DependentUpon>jquery-1.6.4.js</DependentUpon>
     </Content>
+    <Content Include="Scripts\jquery-ui-1.8.11.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.min.js">
       <DependentUpon>jquery.unobtrusive-ajax.js</DependentUpon>
